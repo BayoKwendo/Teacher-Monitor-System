@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "903597017082",
+    "firebase_url": "https://attendence-2576f.firebaseio.com",
+    "project_id": "attendence-2576f",
+    "storage_bucket": "attendence-2576f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903597017082:android:41812ccb21eec86e930643",
+        "android_client_info": {
+          "package_name": "com.sylvers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903597017082-dun9n2od1gst10sh8cejio1qrm2i10i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHqIfDGo6b0b803YqRwU-QVQXh8axDydc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903597017082-dun9n2od1gst10sh8cejio1qrm2i10i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
